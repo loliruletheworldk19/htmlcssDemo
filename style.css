@@ -430,7 +430,7 @@ ul > li {
     color: #A3A8B1 ;
 }
 /* mobile */
-/* @media only screen and (max-width: 46.1875em) { */
+@media only screen and (max-width: 46.1875em) {
     /* .header > .header_menu > .left > .searchBox > form > input {
         width: 80%
     } */
@@ -541,4 +541,4 @@ ul > li {
         justify-content: center;
         margin-top: 300px;
     }
-/* } */
+}
